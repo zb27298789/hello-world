@@ -56,5 +56,5 @@ let newArr = arr.reduce((pre, cur) => {
         console.log(pre);
         return pre
     }
-}, [])
+}, [])  
 console.log(newArr);// [1, 2, 3, 4]
