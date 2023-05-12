@@ -58,3 +58,4 @@ let newArr = arr.reduce((pre, cur) => {
     }
 }, [])  
 console.log(newArr);// [1, 2, 3, 4]
+//test for pull request
