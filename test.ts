@@ -43,7 +43,7 @@ var sum = arr.reduce((prev,cur,index,arr)=>{
     return prev + cur;
 },3)
 
-console.log(arr,sum); */
+console.log(arr,sum); */  
 
 let arr = [1, 2, 3, 4, 3, 4, 1]
 let newArr = arr.reduce((pre, cur) => {
