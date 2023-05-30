@@ -10,7 +10,12 @@ function createPromise(time : number) {
 async function run(t : number) {
     console.log(await createPromise(t));
 };
-//master no change
+
+//master changed
+
+//zb1 feature 1 + feature 2
+
+
 
 /* for (const ti of timeArray) {
     console.log('1111'+ti);
