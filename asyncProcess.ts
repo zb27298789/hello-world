@@ -10,7 +10,7 @@ function createPromise(time : number) {
 async function run(t : number) {
     console.log(await createPromise(t));
 };
-
+//zb1 feature1
 
 /* for (const ti of timeArray) {
     console.log('1111'+ti);
